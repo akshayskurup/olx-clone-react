@@ -1,0 +1,50 @@
+
+.container{
+    padding-top: 18px;
+    
+}
+.fresh-reco {
+    
+    margin-bottom: 20px; 
+    font-size: 22px;
+    font-weight: 400;
+}
+  
+  
+  
+ 
+  .img {
+    margin-top: -30px;
+    width: 250px;
+    height: 170px;
+    margin-left: -30px;
+    margin-bottom: 10px;  
+  }
+  
+
+  .card {
+    cursor: pointer;
+    width: 255px;
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+    margin-bottom: 15px;
+  }
+  .price{
+    font-weight: bold;
+    font-size: 19px;
+    margin-bottom: 0;
+}
+.des{
+    margin-left: -20px;
+}
+.km,.name{
+    margin-bottom: 0px;
+} 
+
+.date{
+  font-size: 13px;
+    margin-bottom: -10px;
+    float: right;
+    margin-right: -25px;
+} 
+  
